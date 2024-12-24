@@ -1,0 +1,8 @@
+PyQt5 
+PyQtWebEngine 
+pandas 
+numpy 
+matplotlib 
+joblib 
+PyMuPDF
+scikit-learn
