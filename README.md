@@ -33,6 +33,10 @@ Dự án phát triển mô hình học máy dự đoán khả năng tốt nghi�
 ├   ├── architecture.md
 ├   ├── demo_instructions.md
 ├── src
+├   ├── File
+│       └── Chat_luong_du_lieu.pdf
+├   ├── Model
+│       └── *.pkl
 ├   ├── main.py
 ├   ├── requirements.txt
 ├── notebooks
