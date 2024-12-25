@@ -21,9 +21,11 @@ Dự án phát triển mô hình học máy dự đoán khả năng tốt nghi�
 .
 ├── data
 │   ├── processed
-│   │   └── **.zip
+│   │   └── updated_student_data.zip
 │   └── raw
 │       └── **.zip
+│   └── clean
+│       └── updated_student_data_new.zip
 ├── demo
 ├   ├── demo_script.md
 ├   ├── video_demo.zip
